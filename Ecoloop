@@ -1,0 +1,18 @@
+EcoLoop/
+│
+├── backend/
+│   ├── app.py
+│   ├── routes/
+│   ├── models/
+│
+├── frontend/
+│   ├── templates/
+│   ├── static/
+│
+├── docs/
+│   ├── projektbeschreibung.md
+│   ├── gantt.md
+│
+├── tests/
+│
+├── README.md
